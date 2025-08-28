@@ -32,7 +32,7 @@ Notre objectif ? Créer un environnement immersif, drôle et accessible à toute
 - 🔔 Notifications immersives.  
 
 ---
-
+👉 Lien pour télécharger le MLO pillbox hill gratuitement via gta5-mods : https://www.gta5-mods.com/maps/gta-5-mlo-interior-pillbox-hill-medical-center-interior-department-of-emergency-receiving-unit-hospital-interior
 
 👉 Si vous n’avez pas encore de dossier `[qb]`, créez-le dans `resources/` pour bien organiser vos scripts QBCore.
 
