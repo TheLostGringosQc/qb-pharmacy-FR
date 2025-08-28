@@ -1,6 +1,6 @@
-# 🏥 qb-pharmacy FR
+# 🏥 qb-pharmacy
 
-Un script **QBCore** développé par **LaPetiteVieDEV** permettant d’ajouter un **pharmacien PNJ** à l’hôpital, qui vend des fournitures médicales (bandages, trousses de soins).  
+Un script **QBCore** développé par **LaPetiteVieDEV** permettant d’ajouter un **pharmacien PNJ** à l’hôpital pill box hill (mlo), qui vend des fournitures médicales (bandages, trousses de soins).  
 Inspiré par notre serveur **La Petite Vie RP**, ce script apporte une petite touche **RP** à votre ville !
 
 ---
